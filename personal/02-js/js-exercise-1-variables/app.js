@@ -31,3 +31,17 @@
 //  let a ^= b - assignment
 //  console.log("Some condition " + (isMember ? "2" : "10")); - condition
 //  x || y - return true even if one is true
+//  | - bit or
+//  ^ - bit XOR
+//  & - bit and
+//  ==, !=, !== - comparison
+//  <<, >>, >=, in, instance of - relation
+//
+//  cars=new Array("fiat","honda","opel"), 1 in cars - in operator example
+//  >>, <<, <<< - n positions left, right in binary
+// +, -, *, /, % - simple operators
+// ++ - incrementation
+// ! - negation
+// . [] 
+// ()
+
