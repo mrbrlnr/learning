@@ -1,0 +1,6 @@
+git init - initialize a repo
+git add - adding files
+git commit - commit
+git commit -m "commit with message"
+git remote add origin [url] - connecting to remote repo
+git push origin master - push to remote repo on master branch
